@@ -1,3 +1,4 @@
+HELLO 
 SCR1 is an open-source RISC-V compatible MCU core, designed by Syntacore.
 
 ## Key features
